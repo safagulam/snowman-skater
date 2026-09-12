@@ -1,4 +1,4 @@
-#Prompt
+**Prompt**
 "Snowman Skater" HTML5 Game
 
 Act as a world-class Principal HTML5 Game Developer, Senior Game Designer, Lead UI/UX Architect, Animation Engineer, and Quality Assurance Director. Build a complete, highly polished, commercial-grade 3D-perspective browser arcade game from scratch named "SNOWMAN SKATER" as a 100% self-contained, single-file HTML document (snowman_skater.html).
@@ -79,5 +79,5 @@ A detailed feature checklist.
 A concise QA verification report confirming all test parameters pass.
 
 
-#AI Tool used
+**AI Tool used**
 claude sonnet 5 medium
